@@ -1,0 +1,8 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local generated user data files
+expenses.csv
+budget.txt
+expenses_report.xlsx
